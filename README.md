@@ -8,6 +8,7 @@ creat a virtual environemnt or use mine
 -python -m venv env
 
 Install depedencies ( Have added mine for refrence purpose)
+-pip install -r requirements.txt
 
 Navigate to manage.py brainlabs_quiz
 
