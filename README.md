@@ -4,7 +4,7 @@ This is a simple Django-based web application to test knowledge of capital citie
 
 ## Installation and Setup
 
-creat a virtual environemnt 
+creat a virtual environemnt or use mine
 -python -m venv env
 
 Install depedencies ( Have added mine for refrence purpose)
